@@ -103,7 +103,7 @@ I like how [Asana](http://www.asana.com/) is organized. It feels more goal orien
 ### Toggl
 
 **Price:** <br>
-FREE
+FREE up to 5 users
 
 **Why:** <br>
 [Toggl](http://www.toggl.com/) is free and integrates into Asana. It records time. End of story.
