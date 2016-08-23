@@ -36,7 +36,7 @@ This is the stack that we use at [Quite Type](http://quitetype.com/)
 $13.00 / MONTH
 
 **Why:** <br>
-The bottom line is [Quickbooks](http://www.Quickbooks.com/) has all the features I AND my rarely used accountant need. It also isn't very expensive and could scale affordably. I would like to use a free service like wave — but it doesn't have all the features I need, even as a small studio. 
+The bottom line is [Quickbooks](http://www.Quickbooks.com/) has all the features I AND my rarely used accountant need. It also isn't very expensive and could scale affordably. I would like to use a free service like Wave — but it doesn't have all the features I need, even as a small studio. 
 
 **Alternatives:**
 -  [Wave](http://waveapps.com/)
