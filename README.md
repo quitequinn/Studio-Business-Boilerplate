@@ -13,6 +13,7 @@ This is the stack that we use at [Quite Type](http://quitetype.com/)
 - [Method of Selection](#method-of-selection)
 - [Accounting & Invoicing](#accounting--invoicing)
 - [CRM](#crm)
+- [Messaging](#messaging)
 - [Project Management](#project-management)
 - [Time Tracking](#time-tracking)
 
@@ -61,6 +62,21 @@ FREE
 -  [Pipedrive](http://Pipedrive.com/)
 -  [Freshdesk](http://Freshdesk.com/)
 -  [Prophet](http://Prophet.com/)
+
+
+
+## Messaging
+
+### Slack
+
+**Price:** <br>
+FREE
+
+**Why:** <br>
+Honestly [Slack](http://www.slack.com/) isn't the only messaging software we use. We use Hangouts, Skype, ScreenHero, Facebook, whatever works for whoever is collaberating with us.. but it is nice to have an in house messaging platform and Slack fills that role.
+
+**Alternatives:** <br>
+I don't even know of any others.
 
 
 
