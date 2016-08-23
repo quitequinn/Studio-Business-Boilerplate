@@ -6,13 +6,17 @@ Eventually I will expand this to web presence, which will include ecommerce solu
 
 This is the stack that we use at [Quite Type](http://quitetype.com/)
 
+
+
 ## Table of contents
 
 - [Method of Selection](#method-of-selection)
-- [CRM](#crm)
 - [Accounting & Invoicing](#accounting-&-invoicing)
+- [CRM](#crm)
+- [Project Management](#project-management)
 - [Time Tracking](#time-tracking)
-- [Project Managment](#project-managment)
+
+
 
 ## Method of Selection
 
@@ -21,6 +25,25 @@ This is the stack that we use at [Quite Type](http://quitetype.com/)
 - Cost
 - Explanation & drawbacks
 - Other solutions in order of alternatives
+
+
+## Accounting & Invoicing
+
+### Quick Books
+
+**Price:** <br>
+$13.00 / MONTH
+
+**Why:** <br>
+The bottom line is [Quickbooks](http://www.Quickbooks.com/) has all the features I AND my rarely used accountant need. It also isn't very expensive and could scale affordably. I would like to use a free service like wave — but it doesn't have all the features I need, even as a small studio. 
+
+**Alternatives:**
+-  [Wave](http://waveapps.com/)
+-  [Freshbooks](http://Freshbooks.com/)
+-  [Xero](http://Xero.com/)
+-  [Brightbook](http://Brightbook.com/)
+
+
 
 ## CRM
 
@@ -40,127 +63,58 @@ FREE
 -  [Prophet](http://Prophet.com/)
 
 
-## Accounting & Invoicing
 
-### Quick Books
+## Project Management
 
-**Price:** <br>
-$13.00 / MONTH
-
-**Why:** <br>
-The bottom line is [Quickbooks](http://www.Quickbooks.com/) has all the features I AND my rarely used accountant need. It also isn't very expensive and could scale affordably. I would like to use a free service like wave — but it doesn't have all the features I need, even as a small studio. 
-
-**Alternatives:**
--  [Freshbooks](http://Freshbooks.com/)
--  [Wave](http://waveapps.com/)
--  [Brightbook](http://Brightbook.com/)
--  [Xero](http://Xero.com/)
-
-
-## Accounting & Invoicing
-
-### 
+### Asana
 
 **Price:** <br>
-FREE
+FREE up to 15 users
 
 **Why:** <br>
-[Hub Spot](http://www..com/) 
+I like how [Asana](http://www.asana.com/) is organized. It feels more goal orientated. It has all the features that basecamp has plus the new design is great.
 
 **Alternatives:**
--  [](http://.com/)
--  [](http://.com/)
--  [](http://.com/)
--  [](http://.com/)
--  [](http://.com/)
+-  [Basecamp](http://Basecamp.com/)
+-  [Trello](http://trello.com/)
+-  [Wrike](http://.com/)
+-  [Freedcamp](http://.com/)
 
 
-## Accounting & Invoicing
 
-### 
+## Time Tracking
+
+### Toggl
 
 **Price:** <br>
 FREE
 
 **Why:** <br>
-[Hub Spot](http://www..com/) 
+[Toggl](http://www.toggl.com/) is free and integrates into Asana. It records time. End of story.
 
 **Alternatives:**
--  [](http://.com/)
--  [](http://.com/)
--  [](http://.com/)
--  [](http://.com/)
--  [](http://.com/)
+-  [Harvest](http://havest.com/)
+-  [Hours](https://www.hourstimetracking.com/)
+-  [Tracking Time](http://trackingtime.com/)
+-  [Timely App](http://timelyapp.com/)
 
 
-## Accounting & Invoicing
 
-### 
+<!--## -->
 
-**Price:** <br>
-FREE
+<!--### -->
 
-**Why:** <br>
-[Hub Spot](http://www..com/) 
+<!--**Price:** <br>-->
+<!--FREE-->
 
-**Alternatives:**
--  [](http://.com/)
--  [](http://.com/)
--  [](http://.com/)
--  [](http://.com/)
--  [](http://.com/)
+<!--**Why:** <br>-->
+<!--[Hub Spot](http://www..com/) -->
 
+<!--**Alternatives:**-->
+<!---  [](http://.com/)-->
+<!---  [](http://.com/)-->
+<!---  [](http://.com/)-->
+<!---  [](http://.com/)-->
+<!---  [](http://.com/)-->
 
-## Accounting & Invoicing
-
-### 
-
-**Price:** <br>
-FREE
-
-**Why:** <br>
-[Hub Spot](http://www..com/) 
-
-**Alternatives:**
--  [](http://.com/)
--  [](http://.com/)
--  [](http://.com/)
--  [](http://.com/)
--  [](http://.com/)
-
-
-## Accounting & Invoicing
-
-### 
-
-**Price:** <br>
-FREE
-
-**Why:** <br>
-[Hub Spot](http://www..com/) 
-
-**Alternatives:**
--  [](http://.com/)
--  [](http://.com/)
--  [](http://.com/)
--  [](http://.com/)
--  [](http://.com/)
-
-
-## Accounting & Invoicing
-
-### 
-
-**Price:** <br>
-FREE
-
-**Why:** <br>
-[Hub Spot](http://www..com/) 
-
-**Alternatives:**
--  [](http://.com/)
--  [](http://.com/)
--  [](http://.com/)
--  [](http://.com/)
--  [](http://.com/)
 
