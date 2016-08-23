@@ -11,7 +11,7 @@ This is the stack that we use at [Quite Type](http://quitetype.com/)
 ## Table of contents
 
 - [Method of Selection](#method-of-selection)
-- [Accounting & Invoicing](#accounting-&-invoicing)
+- [Accounting & Invoicing](#accounting--invoicing)
 - [CRM](#crm)
 - [Project Management](#project-management)
 - [Time Tracking](#time-tracking)
